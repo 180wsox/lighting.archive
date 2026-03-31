@@ -3,6 +3,7 @@
     <a href="./index.html" class="w3-bar-item w3-button">Home</a>
     <a href="./datasheets.html" class="w3-bar-item w3-button">Datasheets</a>
     <a href="./links.html" class="w3-bar-item w3-button">Links</a>
+    <a href="./soxtown.html" class="w3-bar-item w3-button">Soxtown</a>
   </div>
 </header>
 
